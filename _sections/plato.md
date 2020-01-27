@@ -31,7 +31,7 @@ Grabación a María, Simone, Manuel y Clara en el plató de la facultad de Bella
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/plato_5.jpg' | relative_url }}"" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/plato_5.jpg' | relative_url }}" /></a>
       </div>
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/plato_6.jpg' | relative_url }}" /></a>

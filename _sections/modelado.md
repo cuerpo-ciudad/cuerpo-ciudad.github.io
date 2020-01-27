@@ -9,7 +9,7 @@ Manu realizó modelos 3D del centro del Carmen para realizar diversas simulacion
 <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/3D_1.gif' | relative_url }}" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/3D_1.png' | relative_url }}" /></a>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
