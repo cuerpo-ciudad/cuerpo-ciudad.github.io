@@ -4,31 +4,22 @@ icon: fa-cube
 order: 5
 ---
 
-Modelado por parte de Manu del centro del Carmen, simulaciones, cositas
+Manu realizó modelos 3D del centro del Carmen para realizar diversas simulaciones, basándose en medidas *in situ* del espacio y simulando diversas interacciones para con él usando Blender y Mantaflow.
 
 <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
-        <header>
-          <h3>Ipsum Feugiat</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/3D_1.gif' | relative_url }}" /></a>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Natoque Vitae" /></a>
-        <header>
-          <h3>Natoque Vitae</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/3D_2.gif' | relative_url }}"  /></a>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Dolor Penatibus" /></a>
-        <header>
-          <h3>Dolor Penatibus</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/3D_3.gif' | relative_url }}"  /></a>
       </div>
     </div>
   </div>

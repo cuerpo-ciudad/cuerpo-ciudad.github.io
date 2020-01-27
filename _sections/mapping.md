@@ -4,7 +4,7 @@ icon: fa-archway
 order: 8
 ---
 
-Proyectamos, es todo maravilloso, funciona, patatin, patatan
+Proyectamos el videomapping en el Centro del Carmen el día 23 de enero de 2020
 
 <div class="row">
     <div class="4u 12u$(mobile)">
@@ -19,9 +19,6 @@ Proyectamos, es todo maravilloso, funciona, patatin, patatan
       </div>
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/mapping10.jpg' | relative_url }}" /></a>
-      </div>
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/mapping13.jpg' | relative_url }}" /></a>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
@@ -43,7 +40,7 @@ Proyectamos, es todo maravilloso, funciona, patatin, patatan
         <a href="#" class="image fit"><img src="{{ 'assets/images/mapping05.jpg' | relative_url }}" /></a>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/mapping06.jpg' | relative_url }}" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/mapping13.jpg' | relative_url }}" /></a>
       </div>
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/mapping09.jpg' | relative_url }}" /></a>

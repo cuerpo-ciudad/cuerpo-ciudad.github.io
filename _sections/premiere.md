@@ -4,6 +4,6 @@ icon: fa-film
 order: 7
 ---
 
-Clara y Simone montan todo bien junto
+Clara y Simone realizan el montaje de todo el material gráfico y sonoro en Premiere.
 
-![imagen 1](assets/images/pic08.jpg ){:.image.featured}
+![imagen 1](assets/images/premiere.png ){:.image.featured}
