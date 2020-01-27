@@ -4,6 +4,6 @@ icon: fa-sliders-h
 order: 6
 ---
 
-Simone hace chachimúsica con los sonidos que grabamos el otro día
+Simone compuso la pieza musical que acompaña al videmapping a partir de los sonidos grabados con nuestros cuerpos y anteriormente mencionados.
 
-![imagen 1](assets/images/pic08.jpg ){:.image.featured}
+![imagen 1](assets/images/composicion.jpg ){:.image.featured}
